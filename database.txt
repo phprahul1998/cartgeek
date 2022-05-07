@@ -1,0 +1,6 @@
+Please create these in phpmyadmin
+database Name -  cartgeek
+Table name - products
+col- id(primary key auto increment),product_name,product_price,product_desccription,created_at,updated_at
+Table Name - product_img
+col- id(primary key auto increment),product_id,product_image,created_at,updated_at
